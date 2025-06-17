@@ -5,5 +5,3 @@ Given the rapidly evolving and highly sophisticated countermeasures employed by 
 
 Turn to --> Countermeasures
 
-
-![Uploading image.jpg…]()
